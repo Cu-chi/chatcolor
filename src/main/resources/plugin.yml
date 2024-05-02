@@ -1,0 +1,8 @@
+name: chatcolor
+version: '${version}'
+main: com.cuchi.chatcolor.ChatColorMain
+api-version: '1.20'
+commands:
+  chatcolor:
+    description: "Open the chat color GUI"
+    usage: "/<command>"
